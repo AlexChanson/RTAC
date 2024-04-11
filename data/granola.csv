@@ -1,0 +1,406 @@
+﻿StoreName,BuyDate,Number,Product,Weight(gr),UnitPrice(Toman),City,Month,Year
+aghaye ahmadi,27/04/2022,12,fitness granola,380,73500,mashhad,2,1401
+aghaye kamali,26/05/2022,2,choco strawberry granola,250,48750,mashhad,3,1401
+aghaye kamali,26/05/2022,2,fruity granola,250,48750,mashhad,3,1401
+aghaye kamali,26/05/2022,2,fitness granola,250,48750,mashhad,3,1401
+aghaye kamali,26/05/2022,2,choco strawberry granola,380,73500,mashhad,3,1401
+aghaye kamali,26/05/2022,2,fruity granola,380,73500,mashhad,3,1401
+aghaye kamali,26/05/2022,2,fitness granola,380,73500,mashhad,3,1401
+jordan plus,26/05/2022,5,fruity granola,380,68600,mashhad,3,1401
+jordan plus,26/05/2022,5,fitness granola,380,68600,mashhad,3,1401
+jordan plus,26/05/2022,5,choco strawberry granola,380,68600,mashhad,3,1401
+aghaye ahmadi,30/05/2022,10,fitness granola,380,73500,mashhad,3,1401
+protein m&m,25/06/2022,4,fruity granola,380,73500,mashhad,4,1401
+protein m&m,25/06/2022,4,fitness granola,380,73500,mashhad,4,1401
+protein m&m,25/06/2022,4,choco strawberry granola,380,73500,mashhad,4,1401
+aghaye ahmadi,03/07/2022,10,fitness granola,380,90000,mashhad,4,1401
+sabzino1 (molasadra)(besat),23/08/2022,4,fitness granola,380,87600,mashhad,6,1401
+sabzino1 (molasadra)(besat),23/08/2022,4,fitness granola,600,124100,mashhad,6,1401
+sabzino1 (molasadra)(besat),23/08/2022,3,choco strawberry granola,600,124100,mashhad,6,1401
+sabzino1 (molasadra)(besat),23/08/2022,2,fruity granola,380,87600,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,3,fitness granola,600,124100,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,2,fitness granola,380,87600,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,3,choco strawberry granola,600,124100,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,2,choco strawberry granola,380,87600,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,3,fruity granola,600,124100,mashhad,6,1401
+sabzino2 (kolahdoz),27/08/2022,3,fruity granola,380,87600,mashhad,6,1401
+fayaz,27/08/2022,5,choco strawberry granola,380,90000,mashhad,6,1401
+fayaz,27/08/2022,5,fruity granola,380,90000,mashhad,6,1401
+zahedan protein,01/09/2022,24,choco strawberry granola,380,78000,zahedan,6,1401
+zahedan protein,01/09/2022,24,fitness granola,380,78000,zahedan,6,1401
+zahedan protein,01/09/2022,24,fruity granola,380,78000,zahedan,6,1401
+zahedan protein,01/09/2022,6,podr mokamel choco strawberry,500,150000,zahedan,6,1401
+sharee,01/09/2022,4,fitness granola,600,127500,mashhad,6,1401
+sharee,01/09/2022,3,fitness granola,380,90000,mashhad,6,1401
+sharee,01/07/2022,9,fitness granola,250,63750,mashhad,4,1401
+sharee,10/10/2022,3,fitness granola,600,127500,mashhad,7,1401
+sharee,10/10/2022,3,choco strawberry granola,600,127500,mashhad,7,1401
+sharee,10/10/2022,3,fitness granola,380,90000,mashhad,7,1401
+sharee,10/10/2022,3,choco strawberry granola,380,90000,mashhad,7,1401
+sharee,10/10/2022,3,fitness granola,250,63750,mashhad,7,1401
+sharee,10/10/2022,3,fruity granola,250,63750,mashhad,7,1401
+sharee,10/10/2022,3,choco strawberry granola,250,63750,mashhad,7,1401
+jordan plus,20/09/2022,6,fitness granola,380,84000,mashhad,6,1401
+jordan plus,20/09/2022,6,fruity granola,380,84000,mashhad,6,1401
+jordan plus,20/09/2022,6,choco strawberry granola,380,84000,mashhad,6,1401
+jordan plus,20/09/2022,4,fitness granola,600,119000,mashhad,6,1401
+jordan plus,20/09/2022,4,choco strawberry granola,600,119000,mashhad,6,1401
+jordan plus,20/09/2022,3,fruity granola,600,119000,mashhad,6,1401
+jordan plus,17/08/2022,5,fitness granola,250,59500,mashhad,5,1401
+jordan plus,17/08/2022,5,fruity granola,250,59500,mashhad,5,1401
+jordan plus,17/08/2022,5,choco strawberry granola,250,59500,mashhad,5,1401
+jordan plus,17/08/2022,5,fitness granola,380,84000,mashhad,5,1401
+jordan plus,17/08/2022,5,fruity granola,380,84000,mashhad,5,1401
+jordan plus,17/08/2022,5,choco strawberry granola,380,84000,mashhad,5,1401
+jordan plus,17/08/2022,5,fitness granola,600,119000,mashhad,5,1401
+jordan plus,17/08/2022,5,fruity granola,600,119000,mashhad,5,1401
+jordan plus,17/08/2022,5,choco strawberry granola,600,119000,mashhad,5,1401
+nasim lobnan,11/10/2022,3,fitness granola,600,136000,mashhad,7,1401
+nasim lobnan,11/10/2022,3,fruity granola,600,136000,mashhad,7,1401
+nasim lobnan,11/10/2022,3,choco strawberry granola,600,136000,mashhad,7,1401
+nasim lobnan,11/10/2022,3,fitness granola,380,96000,mashhad,7,1401
+nasim lobnan,11/10/2022,3,choco strawberry granola,380,96000,mashhad,7,1401
+nasim lobnan,11/10/2022,2,fruity granola,380,96000,mashhad,7,1401
+sabzino1 (molasadra)(besat),28/03/2022,7,unknown granola,600,104390,mashhad,1,1401
+sabzino1 (molasadra)(besat),28/03/2022,6,unknown granola,380,71540,mashhad,1,1401
+sharee,04/04/2022,6,unknown granola,600,107250,mashhad,1,1401
+sharee,04/04/2022,6,unknown granola,380,73500,mashhad,1,1401
+sharee,04/04/2022,6,unknown granola,250,48750,mashhad,1,1401
+sharee,18/04/2022,6,unknown granola,600,107250,mashhad,1,1401
+sharee,18/04/2022,6,unknown granola,380,73500,mashhad,1,1401
+sharee,18/04/2022,6,unknown granola,250,48750,mashhad,1,1401
+sabzino1 (molasadra)(besat),25/04/2022,3,unknown granola,600,104390,mashhad,2,1401
+sabzino1 (molasadra)(besat),25/04/2022,10,unknown granola,380,71540,mashhad,2,1401
+sabzino2 (kolahdoz),25/04/2022,9,unknown granola,380,71540,mashhad,2,1401
+fayaz,30/04/2022,5,unknown granola,600,107250,mashhad,2,1401
+fayaz,30/04/2022,21,unknown granola,380,73500,mashhad,2,1401
+sabzino1 (molasadra)(besat),10/05/2022,6,unknown granola,600,104390,mashhad,2,1401
+sabzino2 (kolahdoz),10/05/2022,9,unknown granola,600,104390,mashhad,2,1401
+sabzino2 (kolahdoz),10/05/2022,10,unknown granola,380,71540,mashhad,2,1401
+sharee,18/05/2022,6,unknown granola,600,107250,mashhad,2,1401
+sharee,18/05/2022,6,unknown granola,380,73500,mashhad,2,1401
+sharee,18/05/2022,6,unknown granola,250,48750,mashhad,2,1401
+sabzino1 (molasadra)(besat),30/05/2022,12,unknown granola,600,104390,mashhad,3,1401
+sabzino1 (molasadra)(besat),30/05/2022,9,unknown granola,380,71500,mashhad,3,1401
+sharee,30/05/2022,6,unknown granola,600,107250,mashhad,3,1401
+sharee,30/05/2022,9,unknown granola,380,73500,mashhad,3,1401
+sharee,30/05/2022,6,unknown granola,250,48750,mashhad,3,1401
+protein m&m,02/06/2022,9,unknown granola,380,73500,mashhad,3,1401
+protein m&m,05/06/2022,6,unknown granola,380,73500,mashhad,3,1401
+sharee,23/06/2022,3,unknown granola,250,48750,mashhad,4,1401
+sharee,23/06/2022,6,unknown granola,380,73500,mashhad,4,1401
+sharee,23/06/2022,3,unknown granola,600,107250,mashhad,4,1401
+fayaz,30/06/2022,15,unknown granola,380,73500,mashhad,4,1401
+fayaz,30/06/2022,15,unknown granola,600,107250,mashhad,4,1401
+sabzino2 (kolahdoz),02/07/2022,10,unknown granola,600,104390,mashhad,4,1401
+sabzino2 (kolahdoz),02/07/2022,3,unknown granola,380,71540,mashhad,4,1401
+aghaye ahmadi,03/07/2022,10,unknown granola,380,90000,mashhad,4,1401
+sabzino1 (molasadra)(besat),04/07/2022,7,unknown granola,380,87600,mashhad,4,1401
+jordan plus,09/07/2022,11,unknown granola,380,84000,mashhad,4,1401
+jordan plus,14/07/2022,18,unknown granola,380,84000,mashhad,4,1401
+sabzino2 (kolahdoz),30/07/2022,6,unknown granola,600,124100,mashhad,5,1401
+sabzino2 (kolahdoz),30/07/2022,7,unknown granola,380,87600,mashhad,5,1401
+sharee,30/07/2022,9,unknown granola,250,63750,mashhad,5,1401
+sharee,30/07/2022,6,unknown granola,380,90000,mashhad,5,1401
+sharee,30/07/2022,6,unknown granola,600,127500,mashhad,5,1401
+fayaz,03/08/2022,30,unknown granola,600,127500,mashhad,5,1401
+jordan plus,13/10/2022,15,unknown granola,600,119000,mashhad,7,1401
+jordan plus,13/10/2022,13,unknown granola,380,84000,mashhad,7,1401
+fayaz,12/10/2022,19,unknown granola,600,127500,mashhad,7,1401
+fayaz,12/10/2022,14,unknown granola,380,90000,mashhad,7,1401
+nob protein,19/10/2022,6,unknown granola,380,84000,mashhad,7,1401
+top organic,19/10/2022,12,choco strawberry granola,380,84000,mashhad,7,1401
+top organic,19/10/2022,4,fruity granola,380,84000,mashhad,7,1401
+top organic,19/10/2022,4,fitness granola,380,84000,mashhad,7,1401
+top organic,19/10/2022,4,choco strawberry granola,250,59500,mashhad,7,1401
+top organic,19/10/2022,4,fruity granola,250,59500,mashhad,7,1401
+top organic,19/10/2022,4,fitness granola,250,59500,mashhad,7,1401
+hyper one,29/10/2022,3,choco strawberry granola,380,94000,mashhad,8,1401
+hyper one,29/10/2022,3,fitness granola,380,94000,mashhad,8,1401
+hyper one,29/10/2022,3,fruity granola,380,94000,mashhad,8,1401
+hyper one,29/10/2022,3,choco strawberry granola,600,133000,mashhad,8,1401
+hyper one,29/10/2022,3,fitness granola,600,133000,mashhad,8,1401
+hyper one,29/10/2022,3,fruity granola,600,133000,mashhad,8,1401
+nasim lobnan,02/11/2022,10,choco strawberry granola,380,96000,mashhad,8,1401
+jordan plus,10/11/2022,4,fitness granola,250,59500,mashhad,8,1401
+jordan plus,10/11/2022,4,choco strawberry granola,250,59500,mashhad,8,1401
+jordan plus,10/11/2022,4,fruity granola,250,59500,mashhad,8,1401
+sabzino1 (molasadra)(besat),22/11/2022,5,unknown granola,600,127500,mashhad,9,1401
+sabzino1 (molasadra)(besat),22/11/2022,6,unknown granola,380,90000,mashhad,9,1401
+jordan plus,27/11/2022,6,choco strawberry granola,380,84000,mashhad,9,1401
+jordan plus,27/11/2022,6,fitness granola,380,84000,mashhad,9,1401
+jordan plus,27/11/2022,6,fruity granola,380,84000,mashhad,9,1401
+nob protein,28/11/2022,3,choco strawberry granola,380,84000,mashhad,9,1401
+nob protein,28/11/2022,3,fitness granola,380,84000,mashhad,9,1401
+nob protein,28/11/2022,3,fruity granola,380,84000,mashhad,9,1401
+sharee,28/11/2022,3,choco strawberry granola,380,90000,mashhad,9,1401
+sharee,28/11/2022,3,fitness granola,380,90000,mashhad,9,1401
+sharee,28/11/2022,3,fruity granola,380,90000,mashhad,9,1401
+sharee,28/11/2022,3,choco strawberry granola,600,127500,mashhad,9,1401
+sharee,28/11/2022,3,fitness granola,600,127500,mashhad,9,1401
+sharee,28/11/2022,2,fruity granola,600,127500,mashhad,9,1401
+fayaz,14/12/2022,3,choco strawberry granola,380,90000,mashhad,9,1401
+fayaz,14/12/2022,2,fitness granola,380,90000,mashhad,9,1401
+fayaz,14/12/2022,3,choco strawberry granola,600,127500,mashhad,9,1401
+hyper one,22/12/2022,2,fitness granola,250,68000,mashhad,10,1401
+hyper one,22/12/2022,2,fruity granola,250,68000,mashhad,10,1401
+hyper one,22/12/2022,2,choco strawberry granola,250,68000,mashhad,10,1401
+hyper one,22/12/2022,2,fitness granola,380,96000,mashhad,10,1401
+hyper one,22/12/2022,2,choco strawberry granola,380,96000,mashhad,10,1401
+hyper one,22/12/2022,2,fitness granola,600,136000,mashhad,10,1401
+hyper one,22/12/2022,2,fruity granola,600,136000,mashhad,10,1401
+hyper one,22/12/2022,2,choco strawberry granola,600,136000,mashhad,10,1401
+fayaz,22/12/2022,5,fitness granola,380,90000,mashhad,10,1401
+fayaz,22/12/2022,5,fitness granola,600,127500,mashhad,10,1401
+sharee,27/12/2022,3,choco strawberry granola,380,90000,mashhad,10,1401
+sharee,27/12/2022,3,fitness granola,380,90000,mashhad,10,1401
+sharee,27/12/2022,3,fruity granola,380,90000,mashhad,10,1401
+sharee,27/12/2022,2,choco strawberry granola,600,127500,mashhad,10,1401
+sharee,27/12/2022,2,fitness granola,600,127500,mashhad,10,1401
+sharee,27/12/2022,2,fruity granola,600,127500,mashhad,10,1401
+ahvaz store,13/01/2023,24,choco strawberry granola,380,84000,ahvaz,10,1401
+ahvaz store,13/01/2023,24,fitness granola,380,84000,ahvaz,10,1401
+ahvaz store,13/01/2023,24,fruity granola,380,84000,ahvaz,10,1401
+zahedan protein,01/11/2022,48,choco strawberry granola,380,78000,zahedan,8,1401
+zahedan protein,01/11/2022,24,fitness granola,380,78000,zahedan,8,1401
+zahedan protein,01/11/2022,24,fruity granola,380,78000,zahedan,8,1401
+zahedan protein,01/11/2022,24,choco banana granola,380,78000,zahedan,8,1401
+zahedan protein,01/11/2022,24,choco orange granola,380,78000,zahedan,8,1401
+sharee,08/01/2023,3,choco strawberry granola,600,127500,mashhad,10,1401
+sharee,08/01/2023,2,fitness granola,600,127500,mashhad,10,1401
+jordan plus,16/01/2023,5,choco strawberry granola,380,84000,mashhad,10,1401
+jordan plus,16/01/2023,5,fitness granola,380,84000,mashhad,10,1401
+jordan plus,16/01/2023,5,fruity granola,380,84000,mashhad,10,1401
+jordan plus,16/01/2023,6,choco strawberry granola,600,119000,mashhad,10,1401
+top organic,16/01/2023,3,choco strawberry granola,380,84000,mashhad,10,1401
+top organic,16/01/2023,2,fruity granola,380,84000,mashhad,10,1401
+top organic,16/01/2023,3,fitness granola,380,84000,mashhad,10,1401
+top organic,16/01/2023,1,choco banana granola,380,84000,mashhad,10,1401
+top organic,16/01/2023,1,choco orange granola,380,84000,mashhad,10,1401
+farhang market,28/01/2023,8,fitness granola,380,104300,bojnord,11,1401
+farhang market,28/01/2023,8,fruity granola,380,104300,bojnord,11,1401
+farhang market,28/01/2023,8,choco strawberry granola,380,104300,bojnord,11,1401
+sharee,09/02/2023,3,fitness granola,380,111750,mashhad,11,1401
+sharee,09/02/2023,3,fruity granola,380,111750,mashhad,11,1401
+sharee,09/02/2023,3,choco strawberry granola,380,111750,mashhad,11,1401
+sharee,09/02/2023,2,fitness granola,600,149250,mashhad,11,1401
+sharee,09/02/2023,2,fruity granola,600,149250,mashhad,11,1401
+sharee,09/02/2023,2,choco strawberry granola,600,149250,mashhad,11,1401
+sabzino2 (kolahdoz),14/02/2023,3,fitness granola,380,108770,mashhad,11,1401
+sabzino2 (kolahdoz),14/02/2023,4,choco strawberry granola,380,108770,mashhad,11,1401
+sabzino2 (kolahdoz),14/02/2023,3,fruity granola,380,108770,mashhad,11,1401
+sabzino2 (kolahdoz),14/02/2023,4,fitness granola,600,108770,mashhad,11,1401
+sabzino2 (kolahdoz),14/02/2023,4,choco strawberry granola,600,108770,mashhad,11,1401
+fayaz,26/02/2023,10,choco strawberry granola,380,111750,mashhad,12,1401
+fayaz,26/02/2023,10,choco strawberry granola,600,149250,mashhad,12,1401
+sharee,26/02/2023,3,fitness granola,380,111750,mashhad,12,1401
+sharee,26/02/2023,3,fruity granola,380,111750,mashhad,12,1401
+sharee,26/02/2023,3,choco strawberry granola,380,111750,mashhad,12,1401
+sharee,26/02/2023,2,fitness granola,600,149250,mashhad,12,1401
+sharee,26/02/2023,2,fruity granola,600,149250,mashhad,12,1401
+sharee,26/02/2023,2,choco strawberry granola,600,149250,mashhad,12,1401
+zahedan protein,01/01/2023,48,choco strawberry granola,380,78000,zahedan,10,1401
+zahedan protein,01/01/2023,24,fitness granola,380,78000,zahedan,10,1401
+zahedan protein,01/01/2023,24,fruity granola,380,78000,zahedan,10,1401
+zahedan protein,01/01/2023,24,choco banana granola,380,78000,zahedan,10,1401
+zahedan protein,01/01/2023,24,choco orange granola,380,78000,zahedan,10,1401
+zahedan protein,01/01/2023,4,fitness granola,600,119000,zahedan,10,1401
+zahedan protein,01/01/2023,4,choco strawberry granola,600,119000,zahedan,10,1401
+zahedan protein,01/01/2023,4,fruity granola,600,119000,zahedan,10,1401
+zahedan protein,01/01/2023,4,choco banana granola,600,119000,zahedan,10,1401
+zahedan protein,01/01/2023,4,choco orange granola,600,119000,zahedan,10,1401
+top organic,05/02/2023,5,choco strawberry granola,380,104300,mashhad,11,1401
+top organic,05/02/2023,3,fitness granola,380,104300,mashhad,11,1401
+top organic,05/02/2023,3,choco banana granola,380,104300,mashhad,11,1401
+top organic,05/02/2023,3,fruity granola,380,104300,mashhad,11,1401
+top organic,05/02/2023,3,choco orange granola,380,104300,mashhad,11,1401
+hyper one,11/02/2023,5,choco strawberry granola,380,119200,mashhad,11,1401
+hyper one,11/02/2023,5,fitness granola,380,119200,mashhad,11,1401
+hyper one,11/02/2023,4,fruity granola,380,119200,mashhad,11,1401
+hyper one,11/02/2023,5,choco strawberry granola,600,159200,mashhad,11,1401
+jordan plus,13/02/2023,2,fruity granola,380,104300,mashhad,11,1401
+jordan plus,13/02/2023,3,fitness granola,380,104300,mashhad,11,1401
+jordan plus,13/02/2023,5,choco strawberry granola,380,104300,mashhad,11,1401
+jordan plus,13/02/2023,5,fitness granola,600,139300,mashhad,11,1401
+jordan plus,13/02/2023,5,choco strawberry granola,600,139300,mashhad,11,1401
+jordan plus,13/02/2023,4,fruity granola,600,139300,mashhad,11,1401
+sabzino1 (molasadra)(besat),20/02/2023,4,choco strawberry granola,380,108770,mashhad,12,1401
+sabzino1 (molasadra)(besat),06/03/2023,2,fitness granola,380,108770,mashhad,12,1401
+sabzino1 (molasadra)(besat),06/03/2023,2,choco strawberry granola,380,108770,mashhad,12,1401
+sabzino1 (molasadra)(besat),06/03/2023,2,fruity granola,380,108770,mashhad,12,1401
+sabzino1 (molasadra)(besat),06/03/2023,2,choco strawberry granola,600,145270,mashhad,12,1401
+sabzino1 (molasadra)(besat),06/03/2023,2,fitness granola,600,145270,mashhad,12,1401
+sabzino2 (kolahdoz),12/03/2023,2,fitness granola,600,145270,mashhad,12,1401
+fayaz,12/03/2023,9,choco strawberry granola,600,149250,mashhad,12,1401
+fayaz,12/03/2023,5,fitness granola,600,149250,mashhad,12,1401
+fayaz,12/03/2023,5,fruity granola,600,149250,mashhad,12,1401
+jordan plus,12/03/2023,2,choco strawberry granola,380,104300,mashhad,12,1401
+jordan plus,12/03/2023,2,choco strawberry granola,600,139300,mashhad,12,1401
+top organic,12/03/2023,5,choco strawberry granola,380,104300,mashhad,12,1401
+top organic,12/03/2023,3,fitness granola,380,104300,mashhad,12,1401
+top organic,12/03/2023,3,fruity granola,380,104300,mashhad,12,1401
+top organic,12/03/2023,3,choco banana granola,380,104300,mashhad,12,1401
+top organic,12/03/2023,3,choco orange granola,380,104300,mashhad,12,1401
+hyper one,14/03/2023,3,fitness granola,600,159200,mashhad,12,1401
+hyper one,14/03/2023,3,choco strawberry granola,600,159200,mashhad,12,1401
+hyper one,14/03/2023,3,fruity granola,600,159200,mashhad,12,1401
+hyper one,14/03/2023,4,choco strawberry granola,380,119200,mashhad,12,1401
+fayaz,15/03/2023,11,choco strawberry granola,600,149250,mashhad,12,1401
+fayaz,15/03/2023,3,fruity granola,380,111750,mashhad,12,1401
+zahedan protein,14/03/2023,24,choco strawberry granola,380,96850,mashhad,12,1401
+zahedan protein,14/03/2023,24,fitness granola,380,96850,mashhad,12,1401
+zahedan protein,14/03/2023,24,choco banana granola,380,96850,mashhad,12,1401
+zahedan protein,14/03/2023,24,fruity granola,380,96850,mashhad,12,1401
+zahedan protein,14/03/2023,24,choco orange granola,380,96850,mashhad,12,1401
+sharee,28/03/2022,3,fitness granola,600,149250,mashhad,1,1402
+sharee,28/03/2022,3,choco strawberry granola,600,149250,mashhad,1,1402
+sharee,28/03/2022,2,fitness granola,380,111750,mashhad,1,1402
+sharee,28/03/2022,2,choco strawberry granola,380,111750,mashhad,1,1402
+sharee,28/03/2023,2,fruity granola,380,111750,mashhad,1,1402
+jordan plus,04/04/2023,5,choco strawberry granola,600,139300,mashhad,1,1402
+jordan plus,04/04/2023,3,fitness granola,600,139300,mashhad,1,1402
+jordan plus,04/04/2023,2,fruity granola,600,139300,mashhad,1,1402
+jordan plus,04/04/2023,4,choco strawberry granola,380,104300,mashhad,1,1402
+jordan plus,04/04/2023,1,fitness granola,380,104300,mashhad,1,1402
+top organic,04/04/2023,2,choco strawberry granola,380,104300,mashhad,1,1402
+top organic,04/04/2023,3,fitness granola,380,104300,mashhad,1,1402
+top organic,04/04/2023,3,choco orange granola,380,104300,mashhad,1,1402
+top organic,04/04/2023,3,fruity granola,380,104300,mashhad,1,1402
+top organic,04/04/2023,3,choco banana granola,380,104300,mashhad,1,1402
+top organic,11/04/2023,5,choco strawberry granola,380,104300,mashhad,1,1402
+top organic,11/04/2023,4,fitness granola,380,104300,mashhad,1,1402
+top organic,11/04/2023,3,fruity granola,380,104300,mashhad,1,1402
+top organic,11/04/2023,3,choco banana granola,380,104300,mashhad,1,1402
+top organic,23/04/2023,5,choco strawberry granola,380,104300,mashhad,2,1402
+top organic,23/04/2023,5,fitness granola,380,104300,mashhad,2,1402
+top organic,23/04/2023,3,choco orange granola,380,104300,mashhad,2,1402
+top organic,23/04/2023,3,fruity granola,380,104300,mashhad,2,1402
+top organic,23/04/2023,2,choco banana granola,380,104300,mashhad,2,1402
+sharee,26/04/2023,3,choco strawberry granola,600,149250,mashhad,2,1402
+sharee,26/04/2023,3,fitness granola,600,149250,mashhad,2,1402
+top organic,04/05/2023,2,choco strawberry granola,380,104300,mashhad,2,1402
+top organic,04/05/2023,3,fruity granola,380,104300,mashhad,2,1402
+top organic,04/05/2023,3,choco banana granola,380,104300,mashhad,2,1402
+top organic,04/05/2023,3,fitness granola,380,104300,mashhad,2,1402
+jordan plus,04/05/2023,6,choco strawberry granola,380,104300,mashhad,2,1402
+jordan plus,04/05/2023,6,fitness granola,380,104300,mashhad,2,1402
+jordan plus,04/05/2023,6,fruity granola,380,104300,mashhad,2,1402
+jordan plus,04/05/2023,6,choco strawberry granola,600,139300,mashhad,2,1402
+jordan plus,04/05/2023,6,fitness granola,600,139300,mashhad,2,1402
+fayaz,04/05/2023,5,fitness granola,380,111750,mashhad,2,1402
+fayaz,04/05/2023,10,choco strawberry granola,600,149250,mashhad,2,1402
+hyper one,04/05/2023,3,fruity granola,380,119200,mashhad,2,1402
+hyper one,04/05/2023,2,fitness granola,380,119200,mashhad,2,1402
+hyper one,04/05/2023,4,choco strawberry granola,380,119200,mashhad,2,1402
+hyper one,04/05/2023,4,choco strawberry granola,600,159200,mashhad,2,1402
+hyper one,04/05/2023,3,fruity granola,600,159200,mashhad,2,1402
+hyper one,04/05/2023,3,fitness granola,600,159200,mashhad,2,1402
+barcode store,04/05/2023,2,choco strawberry granola,250,87200,mashhad,2,1402
+barcode store,04/05/2023,2,choco strawberry granola,380,119200,mashhad,2,1402
+nasim lobnan,09/05/2023,20,choco strawberry granola,380,119200,mashhad,2,1402
+top organic,12/05/2023,5,choco strawberry granola,380,104300,mashhad,2,1402
+top organic,12/05/2023,4,fruity granola,380,104300,mashhad,2,1402
+top organic,12/05/2023,3,fitness granola,380,104300,mashhad,2,1402
+top organic,12/05/2023,2,choco banana granola,380,104300,mashhad,2,1402
+top organic,12/05/2023,2,choco orange granola,380,104300,mashhad,2,1402
+sabzino2 (kolahdoz),14/05/2023,5,fitness granola,600,145270,mashhad,2,1402
+sabzino2 (kolahdoz),14/05/2023,4,choco strawberry granola,600,145270,mashhad,2,1402
+sabzino2 (kolahdoz),14/05/2023,1,fruity granola,600,145270,mashhad,2,1402
+sabzino2 (kolahdoz),14/05/2023,1,choco strawberry granola,380,108670,mashhad,2,1402
+sabzino2 (kolahdoz),14/05/2023,4,fitness granola,380,108670,mashhad,2,1402
+pishva market,18/05/2023,5,choco strawberry granola,380,104300,pishva (tehran),2,1402
+pishva market,18/05/2023,5,fitness granola,380,104300,pishva (tehran),2,1402
+pishva market,18/05/2023,5,fruity granola,380,104300,pishva (tehran),2,1402
+farhang market,18/05/2023,6,choco strawberry granola,380,104300,bojnord,2,1402
+farhang market,18/05/2023,6,fitness granola,380,104300,bojnord,2,1402
+farhang market,18/05/2023,8,fruity granola,380,104300,bojnord,2,1402
+danak hyper,20/05/2023,24,fitness granola,380,111750,ghaem shahr,2,1402
+danak hyper,20/05/2023,12,fruity granola,380,111750,ghaem shahr,2,1402
+danak hyper,20/05/2023,12,choco strawberry granola,380,111750,ghaem shahr,2,1402
+sharee,23/05/2023,3,fitness granola,380,134250,mashhad,3,1402
+sharee,23/05/2023,3,choco strawberry granola,380,134250,mashhad,3,1402
+sharee,23/05/2023,3,fruity granola,380,134250,mashhad,3,1402
+sharee,23/05/2023,3,choco strawberry granola,600,179250,mashhad,3,1402
+sharee,23/05/2023,3,fitness granola,600,179250,mashhad,3,1402
+jordan plus,24/05/2023,4,choco strawberry granola,380,125300,mashhad,3,1402
+jordan plus,24/05/2023,4,fitness granola,380,125300,mashhad,3,1402
+jordan plus,24/05/2023,4,choco banana granola,380,125300,mashhad,3,1402
+jordan plus,24/05/2023,4,fruity granola,380,125300,mashhad,3,1402
+jordan plus,24/05/2023,4,choco strawberry granola,600,167300,mashhad,3,1402
+jordan plus,24/05/2023,4,fitness granola,600,167300,mashhad,3,1402
+jordan plus,24/05/2023,4,choco banana granola,600,167300,mashhad,3,1402
+jordan plus,24/05/2023,4,fruity granola,600,167300,mashhad,3,1402
+top organic,24/05/2023,5,choco strawberry granola,380,107400,mashhad,3,1402
+top organic,24/05/2023,5,fitness granola,380,107400,mashhad,3,1402
+top organic,24/05/2023,5,fruity granola,380,107400,mashhad,3,1402
+hyper one,24/05/2023,3,choco strawberry granola,600,191200,mashhad,3,1402
+hyper one,24/05/2023,2,fruity granola,600,191200,mashhad,3,1402
+hyper one,24/05/2023,2,choco strawberry granola,380,143200,mashhad,3,1402
+hyper one,24/05/2023,2,fruity granola,380,143200,mashhad,3,1402
+danak hyper,24/04/2022,12,choco strawberry granola,250,81750,ghaem shahr,2,1402
+danak hyper,24/04/2022,12,fitness granola,250,81750,ghaem shahr,2,1402
+danak hyper,24/04/2022,12,fruity granola,250,81750,ghaem shahr,2,1402
+danak hyper,24/04/2022,12,choco strawberry granola,380,111750,ghaem shahr,2,1402
+danak hyper,24/04/2022,12,fitness granola,380,111750,ghaem shahr,2,1402
+danak hyper,24/04/2022,12,fruity granola,380,111750,ghaem shahr,2,1402
+top organic,31/05/2023,6,choco strawberry granola,380,107400,mashhad,3,1402
+top organic,31/05/2023,2,fruity granola,380,107400,mashhad,3,1402
+top organic,31/05/2023,2,choco banana granola,380,107400,mashhad,3,1402
+top organic,31/05/2023,3,fitness granola,380,107400,mashhad,3,1402
+top organic,31/05/2023,3,choco orange granola,380,107400,mashhad,3,1402
+jordan plus,10/06/2023,5,choco strawberry granola,380,125300,mashhad,3,1402
+jordan plus,10/06/2023,4,fruity granola,380,125300,mashhad,3,1402
+jordan plus,10/06/2023,2,fitness granola,380,125300,mashhad,3,1402
+jordan plus,10/06/2023,4,fitness granola,600,167300,mashhad,3,1402
+jordan plus,10/06/2023,2,fruity granola,600,167300,mashhad,3,1402
+jordan plus,10/06/2023,5,choco strawberry granola,600,167300,mashhad,3,1402
+jordan plus,10/06/2023,3,fitness granola,250,83300,mashhad,3,1402
+jordan plus,10/06/2023,3,choco strawberry granola,250,83300,mashhad,3,1402
+jordan plus,10/06/2023,3,fruity granola,250,83300,mashhad,3,1402
+jordan plus,10/06/2023,3,choco banana granola,250,83300,mashhad,3,1402
+top organic,10/06/2023,4,fitness granola,380,107400,mashhad,3,1402
+top organic,10/06/2023,4,fruity granola,380,107400,mashhad,3,1402
+top organic,10/06/2023,3,choco banana granola,380,107400,mashhad,3,1402
+fayaz,17/06/2023,10,choco strawberry granola,380,134250,mashhad,3,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,fitness granola,380,130670,mashhad,4,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,choco strawberry granola,380,130670,mashhad,4,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,fruity granola,380,130670,mashhad,4,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,choco strawberry granola,600,107400,mashhad,4,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,fitness granola,600,107400,mashhad,4,1402
+sabzino1 (molasadra)(besat),26/06/2023,3,fruity granola,600,107400,mashhad,4,1402
+sharee,28/06/2023,3,choco strawberry granola,380,134250,mashhad,4,1402
+sharee,28/06/2023,3,fitness granola,380,134250,mashhad,4,1402
+sharee,28/06/2023,3,fruity granola,380,134250,mashhad,4,1402
+sharee,28/06/2023,3,choco strawberry granola,600,179250,mashhad,4,1402
+sharee,28/06/2023,3,fitness granola,600,179250,mashhad,4,1402
+top organic,03/07/2023,6,choco strawberry granola,380,107400,mashhad,4,1402
+top organic,03/07/2023,6,fruity granola,380,107400,mashhad,4,1402
+top organic,03/07/2023,6,choco banana granola,380,107400,mashhad,4,1402
+top organic,03/07/2023,6,fitness granola,380,107400,mashhad,4,1402
+top organic,03/07/2023,2,choco orange granola,380,107400,mashhad,4,1402
+danak hyper,03/07/2023,24,fitness granola,380,125000,ghaem shahr,4,1402
+danak hyper,03/07/2023,24,choco strawberry granola,380,125000,ghaem shahr,4,1402
+danak hyper,03/07/2023,12,fruity granola,380,125000,ghaem shahr,4,1402
+jordan plus,03/07/2023,4,choco strawberry granola,250,83300,mashhad,4,1402
+jordan plus,03/07/2023,4,fruity granola,250,83300,mashhad,4,1402
+jordan plus,03/07/2023,4,fitness granola,250,83300,mashhad,4,1402
+jordan plus,03/07/2023,3,choco strawberry granola,380,125300,mashhad,4,1402
+jordan plus,03/07/2023,3,fruity granola,380,125300,mashhad,4,1402
+jordan plus,03/07/2023,2,fitness granola,380,125300,mashhad,4,1402
+jordan plus,03/07/2023,2,choco banana granola,380,125300,mashhad,4,1402
+jordan plus,03/07/2023,3,fruity granola,600,167300,mashhad,4,1402
+jordan plus,03/07/2023,3,choco strawberry granola,600,167300,mashhad,4,1402
+jordan plus,03/07/2023,4,choco banana granola,600,167300,mashhad,4,1402
+hyper one,10/07/2023,4,fruity granola,380,143200,mashhad,4,1402
+hyper one,10/07/2023,4,choco strawberry granola,380,143200,mashhad,4,1402
+hyper one,10/07/2023,4,fitness granola,380,143200,mashhad,4,1402
+hyper one,10/07/2023,4,choco strawberry granola,600,191200,mashhad,4,1402
+hyper one,10/07/2023,4,fruity granola,600,191200,mashhad,4,1402
+hyper one,10/07/2023,2,fitness granola,600,191200,mashhad,4,1402
+top organic,19/07/2023,6,choco strawberry granola,380,107400,mashhad,4,1402
+top organic,19/07/2023,6,fitness granola,380,107400,mashhad,4,1402
+top organic,19/07/2023,3,fruity granola,380,107400,mashhad,4,1402
+top organic,19/07/2023,2,choco banana granola,380,107400,mashhad,4,1402
+top organic,11/07/2023,6,fitness granola,380,107400,mashhad,4,1402
+top organic,11/07/2023,6,choco strawberry granola,380,107400,mashhad,4,1402
+top organic,11/07/2023,6,fruity granola,380,107400,mashhad,4,1402
