@@ -1,2 +1,5 @@
 sql-formatter
 duckdb
+numpy
+scipy
+matplotlib
